@@ -31,6 +31,6 @@
     "release-it": "^2.5.4"
   },
   "peerDependencies": {
-    "mongoose": ""
+    "mongoose": "^4.x.x"
   }
 }
